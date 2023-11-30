@@ -1,31 +1,32 @@
-Cursor-Following 3D Human Figure
-Project Owner
-Burak Eryılmaz - Senior Software Engineer, Founder of 1002Labs
+# Cursor-Following 3D Human Figure
+## An interactive 3D human figure that follows the user's cursor, using Three.js and Spline.
 
-Overview
-Developed by Burak Eryılmaz, "Cursor-Following 3D Human Figure" utilizes Three.js and Spline to create a realistic human animation that tracks the user's cursor. Designed to offer an interactive experience in web-based 3D graphics.
+### Project Owner
+#### Burak Eryılmaz - Senior Software Engineer, Founder of 1002Labs
 
-Live Demo
-You can view and interact with the live version of this project here: https://eryilmazburak.github.io/Cursor-Following-3D-Human-Figure/
+### Overview
+#### "Cursor-Following 3D Human Figure" is developed by Burak Eryılmaz. It utilizes Three.js and Spline to create a realistic human animation that tracks the user's cursor, providing an engaging user experience in web-based 3D graphics.
 
-Features
-Realistic human figure animation
-Interactive cursor-following behavior
-Seamless integration with modern web technologies
-Installation
-To get this project up and running on your local environment, follow these steps:
+### Live Demo
+#### Experience the project live at: [Cursor-Following 3D Human Figure Live Demo](https://eryilmazburak.github.io/Cursor-Following-3D-Human-Figure/)
 
-Clone the Repository
-Run the Project
-Usage
-The 3D human model loads on opening the web page and follows cursor movements.
+### Features
+#### - Realistic human figure animation following the cursor
+#### - Seamless integration with modern web technologies
 
-Configuration
-Adjust the model's position by modifying the main.js file.
+### Setup
+#### To set up the project locally, follow these steps:
+1. Clone the repository.
+2. Run the project on a local server, typically at `localhost:3000`.
 
-Contributing
-Contributions are welcome. Please fork the repository, commit your changes, and submit a pull request.
+### Usage
+#### Upon opening the web page, the 3D human model will load and start following your cursor movements across the screen.
 
-License
-This project is open-source and is licensed under [Your License Name].
+### Configuration
+#### To adjust the model's position in the scene, modify the `main.js` file.
 
+### Contributing
+#### Contributions are welcome to enhance this project. Please fork the repository, commit your changes, and submit a pull request for review.
+
+### License
+#### This project is licensed under the MIT License.
